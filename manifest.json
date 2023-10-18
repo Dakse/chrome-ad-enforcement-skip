@@ -2,7 +2,7 @@
   "name": "Chromium ad enforcement skip",
   "description": "Script opens on every youtube page, and waits for the enforcement popup. When it detects it, it replaces the default player with an embed one.",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "content_scripts": [
     {
       "matches": ["https://*.youtube.com/*"],
