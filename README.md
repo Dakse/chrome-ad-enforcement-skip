@@ -12,6 +12,7 @@ To install this extension:
 4. Click "Load unpacked"
 5. Navigate to the root folder of the cloned repository, and confirm
 6. Ensure the extension has been added and enabled
+   
    <img src="https://i.imgur.com/7EBr5hX.png"/>
 
 # TODO
